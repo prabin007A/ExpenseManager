@@ -1,0 +1,85 @@
+﻿@model List<ExpenseManager.Models.ExpenseModel>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ExpenseManager</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    @* sweet alert *@
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <style>
+        .custom-rounded {
+            border-radius: 25px;
+        }
+    </style>
+</head>
+<body>
+    <div class="d-flex mt-5 ">
+        <div class="container">
+            <h1 class="fw-light">Add New Expenses</h1>
+            <a class="btn btn-outline-success mt-1" href="/Home/Create"><i class="bi bi-file-earmark-plus"></i>&nbsp;Add</a>&nbsp;
+@*             <button type="submit" class="btn btn-danger" asp-action="Clear" asp-controller="Home"><i class="bi bi-x-circle"></i>&nbsp;ClearAll</button>
+ *@        </div>
+        <div class="d-flex">
+            <form method="get" action="/Home/SearchResults" class="d-flex">
+                <input autocomplete="off" class="form-control placeholder-glow h-50 border-success custom-rounded" type="text" name="SearchString" placeholder="Search Items" value="@ViewBag.SearchString" required>&nbsp;
+                <button type="submit" class="btn btn-outline-success h-50 w-30 custom-rounded"><i class="bi bi-search"></i></button>
+            </form>
+        </div>
+    </div>
+    <table class="table table-striped mt-4 col-md-6">
+        <thead class="">
+            <tr>
+                <th>Id</th>
+                <th>Description</th>
+                <th>Amount</th>
+                <th>Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Description</td>
+                        <td>@item.Amount</td>
+                        <td>@item.Date.ToShortDateString()</td>
+                        <td class="d-flex">
+                            <form action="/Home/Edit/@item.Id" method="get">
+                                <button type="submit" class="btn btn-outline-primary btn-sm"><i class="bi bi-pencil-square"></i></button>
+                            </form>&nbsp;
+                            <form action="/Home/Delete/@item.Id" method="post">
+                                <button type="submit" class="btn btn-outline-danger btn-sm"><i class="bi bi-trash-fill"></i></button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5" class="text-center">No data available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var message = "@ViewBag.Msg";
+            var type = "@ViewBag.MsgType";
+            if (message) {
+                Swal.fire({
+                    title: type === "Success" ? "Success" : "Error",
+                    text: message,
+                    icon: type,
+                    confirmButtonText: "OK"
+                });
+            }
+        });
+    </script>
+</body>
+</html>

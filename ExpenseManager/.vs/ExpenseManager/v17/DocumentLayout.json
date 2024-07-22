@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\models\\expensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\models\\expensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ExpenseManager/True/SqlTable/dbo.ExpensesTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\models\\expenseupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\models\\expenseupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\prabi\\onedrive\\desktop\\new folder\\expensemanager\\expensemanager\\migrations\\20240704093234_adddisplayordertoexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E90648-14A2-4ED3-8CFC-1A818A71CAAF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\migrations\\20240704093234_adddisplayordertoexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\LogIn.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\LogIn.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T17:41:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseModel.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Models\\ExpenseModel.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Models\\ExpenseModel.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Models\\ExpenseModel.cs",
+              "RelativeToolTip": "ExpenseManager\\Models\\ExpenseModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA9wA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:59:20.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAC0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T10:06:36.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T09:33:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T06:51:01.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\Home.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T09:36:12.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:52:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Reports.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Reports.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\Reports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T16:23:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Program.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Program.cs",
+              "RelativeToolTip": "ExpenseManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:59:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ExpenseManager\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ExpenseManager\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-07T17:07:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ExpenseManager\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ExpenseManager\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-07T17:44:10.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "ExpenseManager\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "ExpenseManager\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-07T17:44:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\SearchResults.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\SearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:55:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T06:25:07.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240704093234_AddDisplayOrderToExpenses.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Migrations\\20240704093234_AddDisplayOrderToExpenses.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Migrations\\20240704093234_AddDisplayOrderToExpenses.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Migrations\\20240704093234_AddDisplayOrderToExpenses.cs",
+              "RelativeToolTip": "ExpenseManager\\Migrations\\20240704093234_AddDisplayOrderToExpenses.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:32:35.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.ExpensesTable [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ExpenseManager/True/SqlTable/dbo.ExpensesTable.sql",
+              "ToolTip": "dbo.ExpensesTable [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-03T16:26:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExpenseUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Models\\ExpenseUpdateModel.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Models\\ExpenseUpdateModel.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\New folder\\ExpenseManager\\ExpenseManager\\Models\\ExpenseUpdateModel.cs",
+              "RelativeToolTip": "ExpenseManager\\Models\\ExpenseUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:23:58.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
